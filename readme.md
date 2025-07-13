@@ -1,0 +1,1 @@
+This repo will contain PyGame templates and excercises to learn how to use it correctly!
